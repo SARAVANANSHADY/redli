@@ -16,6 +16,5 @@ Python 3, requests and colorama libraries.
      python3 redli.py --track
 ```
 ### About
-<p>Coded by: JAYAKUMAR of JTECHCODE 2.O</p>
-<p>Subscribe YouTube : https://www.youtube.com/c/JTECHCODE2O</p>
-<p>Follow on Instagram : https://www.instagram.com/jtechcode</p>
+<p>Coded by: saravanan </p>
+
